@@ -1,0 +1,45 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/_edublogs.org.png",
+            "title": "Blogs and Websites for Education",
+            "bodyText": "- Frontend was build in React \n - Backend is developed by Experss\n - Easily change data and images.\n - MongoDB used for data progress\n - People can create a new Blog or request to join an learning course.",
+            "links": [],
+            "tags" : [
+                "Mongodb",
+                "Experss",
+                "React",
+                "Nodejs"
+            ]
+        },
+        {
+            "image" : "images/projects/_tablo.io.png",
+            "title": "Printing and Publishing Real Books Platform",
+            "bodyText": "- This is an online authoring platform.\n - This is a platform for creating, printing and publishing real books. \n -  Upload finished PDF’s",
+            "links": [],
+            "tags" : [
+                "PHP",
+                "BootStrap",
+                "React",
+                "Python",
+                "APIs",
+                "Google Cloud",
+                "MySQL",
+                "PODS"
+            ]
+        },
+        {
+            "image" : "images/projects/hugedomains.com.png",
+            "title": "Hosting Server",
+            "bodyText": "- This platform focuses on managing and reselling domain names. \n - It specializes in buying and selling domain names \n - The site allows users to search for domains, purchase them outright, or set up payment plans",
+            "links": [],
+            "tags" : [
+                "PHP",
+                "CSS",
+                "APIs",
+                "MySQL",
+                "VIT"
+            ]
+        }
+    ]
+}

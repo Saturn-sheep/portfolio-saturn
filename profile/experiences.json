@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Web and Mobile Application Developer",
+            "subtitle": "+ Mobile Application",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework."
+            ],
+            "dateText": "03/2024 – Present"
+        },
+        {
+            "title": "PHP and JavaScript Professional Developer",
+            "subtitle": "+ frontend, + backend",
+            "workType": "Freelance",
+            "workDescription": [
+                "Update **1** Blog and Website for Education into **Mern**"
+            ],
+            "dateText": "08/2023 – 10/2023"
+        },
+        {
+            "title": "PHP Web Developer",
+            "subtitle": "PHP Frameworks",
+            "workType": "Freelance",
+            "workDescription": [
+                "Created **1** printing and publishing real books platform ",
+                "Updated **1** hosting server for payment, verification and some features",
+                "Many tasks for PHP"
+            ],
+            "dateText": "08/2021 – 05/2023"
+        }
+    ]
+}
